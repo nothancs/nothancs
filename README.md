@@ -1,11 +1,15 @@
 ## Hi there 👋
-
+- 👋 My name is Nathan Phan.
+- 👀 I'm interested in embedded systems and hardware engineering. I have a little experience in frontend and backend engineering using ReactJS.
+- 🌱 I'm a 4th year student and I'm working in a startup called MockTalk that conducts mock interviews for students specifically in tech industry.
+- 💞️ I'm looking to create a project that could help me gain experience as well as something I could enjoy. I love computers so I am really interested in the creation of everything inside of a computer.
+- 🎓 I am pursuing my bachelors and hopefully will get my degree soon c:
+- ⚡ Fun fact: Besides coding and computer related stuff, I love to go bowling and recently started getting addicted to pickleball.
 <!--
 **nothancs/nothancs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
